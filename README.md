@@ -54,21 +54,11 @@ Losse componenten kunnen nu worden vormgegeven en worden gepubliceerd in DSM, fr
 # Front end "preppen"
 Als de componenten door de backend developer in de test site gezet zijn, kunnen de componenten die goedgekeurd zijn door de klant per stuk worden vormgegeven door de front end developer.
 
-# New Features!
+# Vaststellen en produceren content!
 
-  - Import a HTML file and watch it magically convert to Markdown
-  - Drag and drop images (requires your Dropbox account be linked)
-
-
-You can also:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop markdown and HTML files into Dillinger
-  - Export documents as Markdown, HTML and PDF
-
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
+Het is binnen (grote) webprojecten vaak ingewikkeld voor klanten, tekstschrijvers en marketeers, lastig om te bepalen welke content ze moeten produceren. Door Gebruik te maken van schetsen en componenten kunnen we makkelijker communiceren over waar welke content moet komen en hoe lang die ongeveer mag zijn. 
 
 
-This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
 ### Tech
 
